@@ -2,8 +2,8 @@
 ## Austin Stephen 
 ## 7/20/2020
 
-## packges use to build functions and document 
-
+## packages use to build functions and document 
+install.packages("roxygen2")
 library(tidyverse)
 library(roxygen2)
 

@@ -2,6 +2,7 @@
 ## Austin Stephen
 ##7/20/2020
 
+install.packages(extrafont)
 ## packages used in graphics 
 library(extrafont)
 
